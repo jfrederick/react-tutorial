@@ -1,15 +1,5 @@
 [
     {
-        "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
-    },
-    {
-        "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
-    },
-    {
         "id": 1452894030484,
         "author": "Jim",
         "text": "hello"
@@ -23,5 +13,40 @@
         "id": 1452894062395,
         "author": "hey",
         "text": "hey"
+    },
+    {
+        "id": 1452894062396,
+        "author": "koala bear",
+        "text": "im always hungry"
+    },
+    {
+        "id": 1452894062399,
+        "author": "brown bear",
+        "text": "i already ate."
+    },
+    {
+        "id": 1453330152651,
+        "author": "plant",
+        "text": "where are my eyes"
+    },
+    {
+        "id": 1453330182029,
+        "author": "tree",
+        "text": "i need shoes"
+    },
+    {
+        "id": 1453330430562,
+        "author": "test",
+        "text": "test"
+    },
+    {
+        "id": 1453330597664,
+        "author": "webdev",
+        "text": "make the server crash"
+    },
+    {
+        "id": 1453387039315,
+        "author": "thursday",
+        "text": "is good"
     }
 ]
